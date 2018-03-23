@@ -1,0 +1,1 @@
+INSERT INTO Utilisateur (idUser, nomUser, prenomUser, pseudoUser, email, motDePasse, rue, codePostal, ville, adresse, nomRole) VALUES(idUser,Anassalon,olivier,oliviera,j94marsmers@gmail.com,zelkat9z8ad6sqf454dfsq8777fdsq89f9dsq,5 rue du 11 novembre,05000,Gap,5 rue du 11 novembre 1918,Client);
